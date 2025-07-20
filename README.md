@@ -18,6 +18,10 @@ It helps users with **personalized diet, workout, hydration, and motivation plan
 - FPDF
 - dotenv
 
+## 🌐 Live Demo
+[Click here to view the app](https://optiwell.onrender.com/)
+
+
 ## 📦 Setup
 
 ### Clone & Install:
