@@ -22,9 +22,15 @@ It helps users with **personalized diet, workout, hydration, and motivation plan
 
 ### Clone & Install:
 
-git clone https://github.com/YOUR-USERNAME/OptiWell.git
+# Clone the repository
+git clone https://github.com/sneha20056/OptiWell.git
 
+# Navigate to the project directory
 cd OptiWell
 
-
+# Install dependencies
 pip install -r requirements.txt
+
+
+# Run the app
+streamlit run main.py
