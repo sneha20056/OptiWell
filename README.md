@@ -22,10 +22,10 @@ It helps users with **personalized diet, workout, hydration, and motivation plan
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/HOME_PAGE.png)
+![Home](screenshot/HOME_PAGE.png)
 
 ### Result Page
-![Result](screenshots/RESULT_SCREEN.png)
+![Result](screenshot/RESULT_SCREEN.png)
 
 
 ## 🌐 Live Demo
